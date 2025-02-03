@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Abdelkader</h1>
 <h3 align="center">A Passionate Frontend/Python Developer From Egypt</h3> 
 
-- 🌱 I’m currently learning *Python* 
+- 🌱 I’m currently learning *Cyber Security* 
 
 - 💬 Ask me about *HTML5 & CSS3 & Python* 
 
